@@ -6,3 +6,5 @@ A demo to use GitHub
 * v. 0.0.2 - Updated Counter page
 
 currentCounter += 3;
+
+Add decrement button.
